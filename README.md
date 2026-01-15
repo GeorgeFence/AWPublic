@@ -1,10 +1,15 @@
-# AWPublic
-Official software for AW Console!
+<p align="center">
+ <img src="AW.png" style="width:200px">
+</p>
+<h1> AudioWorkstation SW</h1>
 
 > [!NOTE]
 > Beta version - in development!
+<p align="center">
+ <img src="preview1.png" style="width:1100px">
+</p>
 
-
+No public version available yet!
 
 > [!CAUTION]
 > ## License
